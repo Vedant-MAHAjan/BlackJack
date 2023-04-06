@@ -28,3 +28,19 @@ This game was built using JavaScript, HTML, and CSS.
 ## 🚀 Getting Started 🚀
 To play the game, simply open the blackJack.html file in your preferred web browser.
 
+## Preview
+
+### Start of the game
+![image](https://user-images.githubusercontent.com/88843623/230405039-df2ee4d1-573c-477f-a13e-d30efc63e64a.png)
+
+
+### User win condition
+![image](https://user-images.githubusercontent.com/88843623/230405970-0e1fd523-5a26-4607-9a05-a23385e42330.png)
+
+
+### Draw condition
+![image](https://user-images.githubusercontent.com/88843623/230405272-4965c4ae-9d78-41d1-89bb-2272169e792e.png)
+
+
+### User lose condition
+![image](https://user-images.githubusercontent.com/88843623/230405709-9d2621e3-1e8c-4e0e-af5d-b26e69fc92d2.png)
